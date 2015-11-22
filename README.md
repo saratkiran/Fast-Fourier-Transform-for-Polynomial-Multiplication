@@ -7,6 +7,8 @@ Uncomment the code between the horizontal dotted lines for corresponding solutio
 Change the length variable to change the number of input objects 
 All solutions are written in seperate functions. To execute each uncomment the correponding section.
 
+                 ------------------------------------------------------------------------
+
 Folders -
 
 Raw Data - Inputs used for testing all the algorithms
@@ -16,6 +18,8 @@ Java Code - Code used for the algos
 Graphs - Graphs with different parameters to measure the efficiency of the algorithm
 
 Report - Detailed information about graphs and observations.
+
+                 ------------------------------------------------------------------------
 
 Implemented recursive and dynamic programming version of the FFT and apply it to perform polynomial multiplication.
 Compared the performance of the FFT method with the previous algebraic techniques both w.r.t speed and accuracy.
